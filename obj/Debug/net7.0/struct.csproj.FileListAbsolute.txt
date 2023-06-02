@@ -1,0 +1,15 @@
+D:\Patika\struct\bin\Debug\net7.0\struct.exe
+D:\Patika\struct\bin\Debug\net7.0\struct.deps.json
+D:\Patika\struct\bin\Debug\net7.0\struct.runtimeconfig.json
+D:\Patika\struct\bin\Debug\net7.0\struct.dll
+D:\Patika\struct\bin\Debug\net7.0\struct.pdb
+D:\Patika\struct\obj\Debug\net7.0\struct.csproj.AssemblyReference.cache
+D:\Patika\struct\obj\Debug\net7.0\struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\struct\obj\Debug\net7.0\struct.AssemblyInfoInputs.cache
+D:\Patika\struct\obj\Debug\net7.0\struct.AssemblyInfo.cs
+D:\Patika\struct\obj\Debug\net7.0\struct.csproj.CoreCompileInputs.cache
+D:\Patika\struct\obj\Debug\net7.0\struct.dll
+D:\Patika\struct\obj\Debug\net7.0\refint\struct.dll
+D:\Patika\struct\obj\Debug\net7.0\struct.pdb
+D:\Patika\struct\obj\Debug\net7.0\struct.genruntimeconfig.cache
+D:\Patika\struct\obj\Debug\net7.0\ref\struct.dll
